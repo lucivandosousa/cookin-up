@@ -1,5 +1,5 @@
-# Vue 3 + TypeScript + Vite
+# Cookin' Up
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Este projeto explora conceitos básicos do framework Vue.js, como a criação de componetes, diretivas, estados, reatividade e requisições http.
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+A aplicação permite que o usuário selecione ingredientes e pesquise por receitas que contenham os ingredinetes selecionados.
